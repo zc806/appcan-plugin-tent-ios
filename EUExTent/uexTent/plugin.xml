@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin name="uexTent">
+        <method name="registerApp"></method>
+        <method name="sendTextContent"></method>
+        <method name="sendImageContent"></method>
+	</plugin>
+</uexplugins>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin uexName="uexTent" version="3.0.4" build = "4">
+         <info>4:修复uexTent插件与其他插件冲突的问题</info>
+         <build>3:修改分享成功的回调函数为uexTent.cbShare</build>
+         <build>2:统一回调方法名，统一回调参数</build>
+         <build>1:添加uexTent.registerApp返回值</build>
+         <build>0:腾讯微博分享功能插件</build>
+	</plugin>
+</uexplugins>
